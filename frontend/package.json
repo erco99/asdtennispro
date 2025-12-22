@@ -1,5 +1,5 @@
 {
-  "name": "aws-project",
+  "name": "frontend",
   "version": "0.0.0",
   "private": true,
   "scripts": {
@@ -8,7 +8,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "aws-project": "file:..",
+    "frontend": "file:..",
     "axios": "^1.4.0",
     "echarts": "^5.4.3",
     "js-cookie": "^3.0.5",
