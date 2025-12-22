@@ -80,12 +80,13 @@ npm run start
 ```
 
 ## Disclaimer
-This README has been derived from the original project report, which provides a detailed analysis of requirements, 
+This `README` has been derived from the original project report, which provides a detailed analysis of requirements, 
 design decisions, architecture, and implementation details.
 
-The complete project report is available in the report/ directory of this repository.
+The complete project report is available in the `report/` directory of this repository.
 
-The application has never been deployed online, nor has it ever had any real-world or commercial application. 
-After the completion and submission of the project, no further development, maintenance, or updates have been carried out, and none are planned.
+This project was developed **exclusively for academic purposes** as part of a university course.
+The application **has never been deployed online**, nor has it ever had any real-world or commercial application. 
+After the completion and submission of the project, **no further development, maintenance, or updates have been carried out**, and none are planned.
 
 The codebase is preserved in its original state as a reference for educational and documentation purposes only.
