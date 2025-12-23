@@ -7,7 +7,7 @@
   <img src="resources/mobile2.png" width="30%" />
 </p>
 
-A.S.D. Tennis Pro is an academic project developed for the **Applications and Web Services**  ùcourse of the 
+A.S.D. Tennis Pro is an academic project developed for the **Applications and Web Services** course of the 
 **Master’s Degree in Computer Science and Engineering** at the **University of Bologna**.
 
 This project was developed to improve the web-based system used by **Forum Tennis Forlì**, addressing
